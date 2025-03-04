@@ -7,6 +7,7 @@ __pycache__/
 # Virtual Environment
 env/
 venv/
+telry-tm-env/
 
 # System Files
 .DS_Store
