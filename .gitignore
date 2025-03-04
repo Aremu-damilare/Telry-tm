@@ -1,4 +1,6 @@
 build/
+telry-tm.spec
+
 
 # Python
 __pycache__/
