@@ -1,6 +1,17 @@
-# telry-tm
+# telry-tm (Reverse copy and paste tool)
 
-telry-tm is a lightweight clipboard manager that allows you to switch between the last two copied items using custom keyboard shortcuts. Designed for efficiency, it keeps your clipboard history minimal yet effective, making it perfect for users who constantly juggle between repeated texts.
+# Telry-tm – Lightweight Clipboard Manager  
+
+**Telry-tm** lets you switch between your last two copied items using custom keyboard shortcuts. It keeps clipboard history minimal yet effective, ideal for quick task switching.  Making it perfect for users who constantly juggle between repeated texts.
+
+### 🔹 Practical Use Cases  
+- **Faster Copy-Paste** – Avoid switching back to the source multiple times.  
+- **Quick OTP & Password Handling** – Instantly recall copied codes.  
+- **Effortless Editing** – Swap between phrases or citations smoothly.  
+
+🔹 Customize shortcuts to fit your workflow.  
+🔹 The executable (`telry-tm.exe`) is in the `dist` folder.  
+
 
 ---
 
@@ -27,6 +38,7 @@ telry-tm is a lightweight clipboard manager that allows you to switch between th
 ## 🌱 Future Enhancements
 Cross-platform compatibility improvements for seamless performance on Windows, macOS, and Linux.
 Enhanced shortcut customization to allow users to define their own key combinations.
+Extend limit of items to shift through. (currently 2 items)
 UI/UX integration – Adding a minimal GUI to show the last two copied items.
 Clipboard history management – Option to clear or pin specific copied items.
 Cloud synchronization – Sync clipboard history across multiple devices.
