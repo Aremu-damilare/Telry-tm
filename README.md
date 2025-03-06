@@ -1,5 +1,8 @@
 # Telry-tm: Reverse copy and paste tool
 
+## 📸 Logo
+![Screenshot](./telry-tm.png)  
+
 **Telry-tm** lets you switch between your last two copied items using custom keyboard shortcuts. It keeps clipboard history minimal yet effective, ideal for quick task switching.  Making it perfect for users who constantly juggle between repeated texts.
 
 ### 🔹 Practical Use Cases  
@@ -23,6 +26,8 @@
 - **Stores only the last two copied contents** for minimal memory usage
 - Runs in the background, keeping your workflow uninterrupted
 
+- **📸 Screenshot**
+![Screenshot](./screenshot.png)  
 ---
 
 ## ⚙️ Tools and Technologies Used
